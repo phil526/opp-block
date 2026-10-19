@@ -1,0 +1,28 @@
+Third-party assets in this folder (all CC0 1.0 Universal — public domain dedication):
+
+- UAL1.glb: Quaternius — Universal Animation Library (Standard)
+  licence: CC0-1.0
+  source: https://raw.githubusercontent.com/tilakpatell/tilakverse-assets/main/quaternius/universal-animation-library/Unreal-Godot/UAL1.glb
+  more: https://quaternius.com/packs/universalanimationlibrary.html
+- UAL2.glb: Quaternius — Universal Animation Library 2 (Standard)
+  licence: CC0-1.0
+  source: https://raw.githubusercontent.com/tilakpatell/tilakverse-assets/main/quaternius/universal-animation-library-2/Unreal-Godot/UAL2.glb
+  more: https://quaternius.com/packs/universalanimationlibrary2.html
+- body_player.glb: space_adventure char.player — MakeHuman (MPFB2) build
+  licence: CC0-1.0 (per art/manifest.json)
+  source: https://raw.githubusercontent.com/stevenholder/space_adventure/main/art/chars/player.glb
+  more: https://github.com/stevenholder/space_adventure/blob/main/art/ATTRIBUTION.md
+- body_shopkeeper.glb: space_adventure npc.shopkeeper — MakeHuman (MPFB2) build
+  licence: CC0-1.0 (per art/manifest.json)
+  source: https://raw.githubusercontent.com/stevenholder/space_adventure/main/art/chars/shopkeeper.glb
+  more: https://github.com/stevenholder/space_adventure/blob/main/art/ATTRIBUTION.md
+- body_dispatcher.glb: space_adventure npc.dispatcher — MakeHuman (MPFB2) build
+  licence: CC0-1.0 (per art/manifest.json)
+  source: https://raw.githubusercontent.com/stevenholder/space_adventure/main/art/chars/dispatcher.glb
+  more: https://github.com/stevenholder/space_adventure/blob/main/art/ATTRIBUTION.md
+- body_ubc.glb: Quaternius Universal Base Characters — Superhero male (via space_adventure char.ubc)
+  licence: CC0-1.0
+  source: https://raw.githubusercontent.com/stevenholder/space_adventure/main/art/chars/ubc.glb
+  more: https://quaternius.com/packs/universalbasecharacters.html
+
+Processed by tools/build-assets.mjs (clips trimmed, clothing textures removed, textures resized).
